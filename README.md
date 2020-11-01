@@ -1,1 +1,1 @@
-# echec.github.io
+# https://midmost.github.io/echec/
