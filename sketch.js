@@ -10,8 +10,21 @@ let gravity = 0.03;
 let friction = -0.9;
 let balls = [];
 
+var canvas;
+
+
+function windowResized(){
+  //console.log('resized');
+  resizeCanvas(windowWidth, windowHeight);
+}
+
 function setup() {
-  createCanvas(720, 400);
+  canvas = createCanvas(windowWidth, windowHeight);
+  canvas.position(0, 0);
+  canvas.style('z-index', '-1');
+
+
+
   for (let i = 0; i < numBalls; i++) {
     balls[i] = new Ball(
       random(width),
@@ -26,7 +39,12 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+if (mouseIsPressed) {
+  line(pmouseX,pmouseY, mouseXm mouseY);
+}
+
+
+  background(150);
   balls.forEach(ball => {
     ball.collide();
     ball.move();
