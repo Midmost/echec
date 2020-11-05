@@ -19,3 +19,24 @@ h2 {
 body {
 	font: 14px 맑은 고딕;
 }
+
+
+.navi{
+
+	margin-top:-5px;
+	width:100%;
+	height:60px;
+}
+
+.navi ul{
+	list-style: none;
+	height:40px;
+	padding-top:10px;
+	padding-bottom:5px;
+}
+
+.navi ul li {
+	display:inline;
+	float:right;
+	font-size:15px;
+}
