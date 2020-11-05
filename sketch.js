@@ -45,7 +45,7 @@ function draw() {
 }
 
 
-  background(150);
+  background(50);
   balls.forEach(ball => {
     ball.collide();
     ball.move();
