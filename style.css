@@ -12,3 +12,9 @@ canvas {
 	padding-top:10px;
 	padding-bottom:5px;
 }
+
+.navi ul li {
+	display:inline;
+	float:right;
+	font-size:15px;
+}
