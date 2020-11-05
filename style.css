@@ -1,6 +1,7 @@
 html, body {
   margin: 100;
   padding: 100;
+  background: <script src="sketch.js"></script>
 }
 canvas {
   display: block;
