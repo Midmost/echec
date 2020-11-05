@@ -1,7 +1,6 @@
 html, body {
   margin: 100;
   padding: 100;
-  background: <script src="sketch.js"></script>
 }
 canvas {
   display: block;
@@ -54,6 +53,36 @@ body, h2{
 }
 
 ---------------------------
+
+a {
+	text-decoration:none;
+}
+a:link, a:visited {
+	color: black;
+}
+
+a:hover, a:active, a:focus {
+	color:red;
+}
+
+
+.link1 {
+	border-bottom:dotted 1px #ccc;
+	padding-bottom:10px;
+	text-align:right;
+	margin-right:40px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 .container {
 	width: 650px;
