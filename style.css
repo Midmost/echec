@@ -5,3 +5,10 @@ html, body {
 canvas {
   display: block;
 }
+
+.navi{
+
+	margin-top:-5px;
+	width:100%;
+	height:60px;
+}
