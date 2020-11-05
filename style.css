@@ -1,6 +1,6 @@
 html, body {
-  margin: 0;
-  padding: 0;
+  margin: 100;
+  padding: 100;
 }
 canvas {
   display: block;
@@ -49,7 +49,7 @@ h1 {
 }
 
 body, h2{
-	font: 14px 맑은 고딕; 
+	font: 14px 맑은 고딕;
 }
 
 ---------------------------
