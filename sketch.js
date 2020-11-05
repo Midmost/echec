@@ -39,7 +39,8 @@ function setup() {
 }
 
 function draw() {
-if (mouseIsPressed) {
+
+//if (mouseIsPressed) {
   line(pmouseX,pmouseY, mouseXm mouseY);
 }
 
