@@ -36,3 +36,15 @@ canvas {
 	text-decoration:none;
 	text-align: left;
 }
+
+
+
+
+
+---------------------------
+
+.container {
+	width: 650px;
+	margin : 0 auto;
+	background-color:rgba(255,255,255,0.5);
+}
