@@ -43,3 +43,9 @@ The word power made essay 챕터 5, 6읽기
 
 50 맵 정리 및 복습
 The word power made essay 6 읽기
+
+11/12
+
+chemistry AP 3강 끝내기
+The word power made essay 복습
+캐롤 만들기
