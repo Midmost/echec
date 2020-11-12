@@ -49,7 +49,13 @@ The word power made essay 6 읽기
 chemistry AP 3강 끝내기
 The word power made essay 복습
 캐롤 만들기
-50 리스닝 1루틴 
+50 리스닝 1루틴
+
+와우...굵기만 빼면 정말 읽기 좋을 괜찮은 책을 찾았다.
+
+![사진](/age.jpeg)
+
+
 
 11/13
 출....근....아무것도 못하는 날....
