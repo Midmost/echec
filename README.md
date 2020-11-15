@@ -79,6 +79,12 @@ The Relation Between Adverse Childhood Experiences and Adult Health
 
 + Hunger Roxane Gay 원문 읽기
 
+![사진] (/권석천.jpeg)
+
+글 진짜 정말 잘 쓴다. 장강명에 이어서 좋아하는 기자출신 작가가 생겼다. 올해로 53세인데 세상에 어떻게 이렇게 젊다면 젊은 사고방식을 계속 유지할 수 있지. 만나뵙고 싶다. 만나서 인터뷰를 하고 싶은 어른 중 한명이 추가되었다.
+
+
+
 ** 진심으로 다가갈 수 있는 상품이 필요해
 진심 이어야해.**
 
