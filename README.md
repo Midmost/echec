@@ -71,3 +71,16 @@ The word power made essay 복습
 해리스한테 보낼 에세이 초안 작성
 
 The Relation Between Adverse Childhood Experiences and Adult Health
+
+11/15
+
+The Relation Between Adverse Childhood Experiences and Adult Health
+오늘 정리 끝내기
+
++ Hunger Roxane Gay 원문 읽기
+
+** 진심으로 다가갈 수 있는 상품이 필요해
+진심 이어야해.**
+
+감정을 다스릴 수 있어야 해
+무언가 잘못되었다면 고치면 돼.
