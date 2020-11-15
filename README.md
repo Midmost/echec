@@ -93,3 +93,13 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6220625/#__sec3title
 
 감정을 다스릴 수 있어야 해
 무언가 잘못되었다면 고치면 돼.
+
+
+젠장 f 성향을 가진 마케터를 옆에 둬야겠어
+도저히 사람들을 이해할 수가 없잖아 뭐가 그렇게 슬픈거지
+나는 왜 공감을 하지 못 하지?
+
+
+Our usual approach to many common adult chronic diseases reminds one of the relation between smoke and fire. A person unfamiliar with fires would initially be tempted to treat the smoke—ie, the most visible aspect of the problem. What we have learned in the ACE Study represents the underlying fire. Fortunately, fire departments learned to distinguish cause from effect long ago; if they had not, they would use fans instead of water hoses.
+
+좋은 비유다 오졌다
