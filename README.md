@@ -75,6 +75,9 @@ The Relation Between Adverse Childhood Experiences and Adult Health
 11/15
 
 The Relation Between Adverse Childhood Experiences and Adult Health
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6220625/#__sec3title
+
 오늘 정리 끝내기
 
 + Hunger Roxane Gay 원문 읽기
