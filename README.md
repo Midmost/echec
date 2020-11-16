@@ -103,3 +103,24 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6220625/#__sec3title
 Our usual approach to many common adult chronic diseases reminds one of the relation between smoke and fire. A person unfamiliar with fires would initially be tempted to treat the smoke—ie, the most visible aspect of the problem. What we have learned in the ACE Study represents the underlying fire. Fortunately, fire departments learned to distinguish cause from effect long ago; if they had not, they would use fans instead of water hoses.
 
 좋은 비유다 오졌다
+
+11/16
+
+
+진심으로 다가갈 수 있는 상품 찾기
+
+출국 90이내 pcr 검사 받기
+uae 비자니까 비자 필요 없음
+내일 필리핀 대사관 전화하기 경유 비자 묻기
+* 여행자보험 코로나19 지원해주는 보험으로 들기
+
+
+https://www.visualthesaurus.com/cm/wc/how-to-write-long-sentences-that-wont-confuse/
+
+긴문장...쓰고 싶은뎅...
+
+https://stachemi.tistory.com/101
+
+감사합니다
+
+hinative 에서 첨삭 받은 문장 자기전에 한 번 훑고 자기
