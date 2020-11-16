@@ -121,6 +121,13 @@ https://www.visualthesaurus.com/cm/wc/how-to-write-long-sentences-that-wont-conf
 
 https://stachemi.tistory.com/101
 
-감사합니다
+원자량이란 질량수 12탄소의 질량을 임의로 12.0000라 했을 때, 다른 원자들이 갖는 상대적인 비교 질량이다.
+
+몰은 원자 알갱이의 묶음 단위
+
+탄소 12g어치 주세여~
+602*10의 23승 개를 비닐 봉다리에 넣어야해서 오래걸려여~
+
 
 hinative 에서 첨삭 받은 문장 자기전에 한 번 훑고 자기
+토요일 화학 블로그 읽기
