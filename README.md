@@ -188,6 +188,9 @@ The word Power made essay 21 진도 나가고
 19~21 정리하기
 화학 1단원 전체 복습!! 반.드.시. 끝내기
 
+would like to 와 be interested in
+
+
 
 ***11/23***
 
