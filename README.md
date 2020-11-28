@@ -229,7 +229,7 @@ word power made essay 21까지 정리하기
 
 ~~유후유후~~
 
-'''python3
+```python3
 while True:
     yourAnswer = input('give me your answer: ')
     if yourAnswer == "what?":
@@ -238,4 +238,4 @@ while True:
         break
     print("Are you stupid?")
 print("fuck off!")
-'''
+```
