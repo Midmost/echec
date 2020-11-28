@@ -229,7 +229,8 @@ word power made essay 21까지 정리하기
 
 ~~유후유후~~
 
-'''while True:
+'''python3
+while True:
     yourAnswer = input('give me your answer: ')
     if yourAnswer == "what?":
         continue
