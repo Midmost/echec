@@ -224,3 +224,16 @@ word power made essay 21까지 정리하기
 ㅎ...ㅎㅎㅎ 아주 좋은 강좌 사이트를 찾았다. 칸이랑 연계되어있다.
 네이버..ㅎ..ㅎ
 그리고 더 이상 코세라가 어렵지 않다 아무래도 영어 공부하길 잘한거 같다. 잘 들린다. ㅎㅎㅎㅎ
+
+***11/28***
+
+~~유후유후~~
+
+'while True:
+    yourAnswer = input('give me your answer: ')
+    if yourAnswer == "what?":
+        continue
+    elif yourAnswer == "you are son of bitch" :
+        break
+    print("Are you stupid?")
+print("fuck off!")'
