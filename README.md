@@ -290,3 +290,10 @@ print("fuck off!")
   대망의 12월 2일...총 5분야의 강좌가 있고 3까지는 꾸역꾸역 끝냈지만 도저히 4를 더 나갈 수가 없었다.
   가 아니라 이미 나가고 있음 sqlite를 brew로 쓰고 싶어서 강좌랑 다르게 행하고는 있는데
   역시 brew가 짱이네 짱이야~근데 강좌 깨기 전에 내 뚝배기가 깨지겠다~
+
+  ***12/7***
+  If my parents don't help me, I will have to do all the leg work myself.
+
+  If my parents hadn't helped me, I would have had to do all the leg work myself.
+
+  Were my parents not to have helped me, I would have to do all the leg work myself.
