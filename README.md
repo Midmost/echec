@@ -297,3 +297,11 @@ print("fuck off!")
   If my parents hadn't helped me, I would have had to do all the leg work myself.
 
   Were my parents not to have helped me, I would have to do all the leg work myself.
+
+  ***12/8***
+  WPME 24~26
+  토익 듣기
+  단어외우기
+  독어한문장 복습
+  토플라이팅 복습
+  파이썬 진도
